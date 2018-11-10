@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AEA6C79A2174F2C400FB2908 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEA6C7992174F2C400FB2908 /* main.swift */; };
+		AEA6C7A12174F32000FB2908 /* HourlyEmployee.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEA6C7A02174F32000FB2908 /* HourlyEmployee.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		AEA6C7962174F2C400FB2908 /* Dhruv-Patel_57146-Midterm-Ex-01 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Dhruv-Patel_57146-Midterm-Ex-01"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AEA6C7992174F2C400FB2908 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		AEA6C7A02174F32000FB2908 /* HourlyEmployee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HourlyEmployee.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				AEA6C7992174F2C400FB2908 /* main.swift */,
+				AEA6C7A02174F32000FB2908 /* HourlyEmployee.swift */,
 			);
 			path = "Dhruv-Patel_57146-Midterm-Ex-01";
 			sourceTree = "<group>";
@@ -119,6 +122,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AEA6C7A12174F32000FB2908 /* HourlyEmployee.swift in Sources */,
 				AEA6C79A2174F2C400FB2908 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
